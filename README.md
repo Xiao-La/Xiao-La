@@ -1,12 +1,9 @@
-### Heyyyyyyyyy ><
+### Heyyyyyyyyy there ><
 
-You can call me **Joyslog** or **Joy**.^^
+You can call me **Joyslog** or **Joy**.
 
-I'm currently a grade 11 student in Fuzhou, China. Thus the major task for me goes to *Gaokao*.
+I'm currently in grade 11, studying in Fuzhou, China. Like many students here, my main focus is preparing for the *Gaokao*.
 
-I used to be an *OIer*(informatics competition contestant), and quited on November 2023.
-
-You can find my exploration here. I'm still learning and trying to create fansinating code and project.
+I used to be an *OIer*(informatics competition contestant) until November 2023. I love exploring and learning new things in the world of coding and technology.
 
 Please contact me if you want: [Personal Homepage](https://joyslog.top/about)
-
